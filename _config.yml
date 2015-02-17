@@ -86,7 +86,7 @@ follow:
 customLinks:
   - item:
     - text: 掌心
-    url: http://wayne-china.github.io
+      url: http://wayne-china.github.io
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
